@@ -1,2 +1,2 @@
 # Hiking-Webite
-My own person hiking website
+My own personal hiking website
