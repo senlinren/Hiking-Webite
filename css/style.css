@@ -1,4 +1,29 @@
 body {
     background-color: black;
     color: pink;
+    font-size: 28px;
+    
+}
+
+p {
+    color: orange;
+    font-size: 21px;
+}
+
+h1{
+    color: blueviolet;
+    font-size: 72px;
+}
+
+div{
+
+background: green;
+width: 500px;
+height: 500px;
+
+}
+
+span {
+    font-size: 37px;
+    color: aqua;
 }
