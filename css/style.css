@@ -1,29 +1,60 @@
 body {
-    background-color: black;
-    color: pink;
+    background-color: green;
+    
     font-size: 28px;
     
 }
 
 p {
-    color: orange;
+    color: black;
     font-size: 21px;
 }
 
 h1{
-    color: blueviolet;
-    font-size: 72px;
+    color: black;
+    font-size: 77px;
 }
 
-div{
-
-background: green;
-width: 500px;
-height: 500px;
-
+.top-section{
+    
+    width: 800;
+    height: 200;
 }
+
+ul { 
+    border: 2px solid black; 
+width: 400px;
+}
+    
+.ol2{
+    border: 2px solid black; 
+    width: 400px;
+    }
+ 
+    
+h2{
+    color: orange;
+}
+
+.ol1{
+    
+    color: black;
+    background-color: greenyellow;
+    width: 450px;
+}
+
+
+
+.bottom-section{
+
+    
+    width: 500px;
+    height: 200px;
+}
+
 
 span {
     font-size: 37px;
-    color: aqua;
+    color: black;
+    text-emphasis: 15;
 }
